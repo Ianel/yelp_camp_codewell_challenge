@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+/*** Fonts ***/
+@font-face {
+    font-family: "Archivo-Regular";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Regular.ttf");
+}
+@font-face {
+    font-family: "Archivo-Light";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Light.ttf");
+}
+@font-face {
+    font-family: "Archivo-Italic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Italic.ttf");
+}
+@font-face {
+    font-family: "Archivo-ExtraLightItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-ExtraLightItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-ExtraLight";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-ExtraLight.ttf");
+}
+@font-face {
+    font-family: "Archivo-ExtraBoldItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-ExtraBoldItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-ExtraBold";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-ExtraBold.ttf");
+}
+@font-face {
+    font-family: "Archivo-BoldItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-BoldItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-Bold";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Bold.ttf");
+}
+@font-face {
+    font-family: "Archivo-BlackItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-BlackItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-Black";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Black.ttf");
+}
+@font-face {
+    font-family: "Archivo-Medium";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Medium.ttf");
+}
+@font-face {
+    font-family: "Archivo-MediumItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-MediumItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-SemiBold";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-SemiBold.ttf");
+}
+@font-face {
+    font-family: "Archivo-SemiBoldItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-SemiBoldItalic.ttf");
+}
+@font-face {
+    font-family: "Archivo-Thin";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-Thin.ttf");
+}
+@font-face {
+    font-family: "Archivo-ThinItalic";
+    src: url("../assets/fonts/Archivo/static/Archivo/Archivo-ThinItalic.ttf");
+}
